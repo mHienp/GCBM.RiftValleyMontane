@@ -3,6 +3,9 @@
     <h1>GCBM.RiftValleyMontane</h1>
     <p> GCBM implementation in Rift Valley montane forests, initially with a focus on DOM modelling. This project is based on the Standalone Template for the GCBM, downloaded from https://carbon.nfis.org/cbm </p>    
 </div>
+
+![pic](https://github.com/mHienp/GCBM.RiftValleyMontane/assets/106609690/e7225ee4-36af-41f2-b301-081d914210f3)
+
 <hr>
 <details>
   <summary>Table of Contents</summary>
